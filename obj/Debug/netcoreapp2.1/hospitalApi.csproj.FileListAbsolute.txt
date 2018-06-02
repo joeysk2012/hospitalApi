@@ -1,0 +1,14 @@
+C:\Users\kurok\Desktop\projects\hospitalApi\bin\Debug\netcoreapp2.1\hospitalApi.deps.json
+C:\Users\kurok\Desktop\projects\hospitalApi\bin\Debug\netcoreapp2.1\hospitalApi.runtimeconfig.json
+C:\Users\kurok\Desktop\projects\hospitalApi\bin\Debug\netcoreapp2.1\hospitalApi.runtimeconfig.dev.json
+C:\Users\kurok\Desktop\projects\hospitalApi\bin\Debug\netcoreapp2.1\hospitalApi.dll
+C:\Users\kurok\Desktop\projects\hospitalApi\bin\Debug\netcoreapp2.1\hospitalApi.pdb
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.csprojAssemblyReference.cache
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.csproj.CoreCompileInputs.cache
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.RazorAssemblyInfo.cache
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.RazorAssemblyInfo.cs
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.AssemblyInfoInputs.cache
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.AssemblyInfo.cs
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.RazorTargetAssemblyInfo.cache
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.dll
+C:\Users\kurok\Desktop\projects\hospitalApi\obj\Debug\netcoreapp2.1\hospitalApi.pdb
