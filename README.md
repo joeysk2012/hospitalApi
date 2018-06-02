@@ -7,13 +7,8 @@ Tools Used:
 **Endpoints you can use:**  
 ```
 /patients : pulls up all patients in the database  
-```
-
-```
 /practices : pulls up all of the practices in the database  
-
-```
-/appointments : pulls up all of the appointments by patientid  
+/appointments : pulls up all of the appointments by patientid    
 ```
 
 -Joe Kurokawa
